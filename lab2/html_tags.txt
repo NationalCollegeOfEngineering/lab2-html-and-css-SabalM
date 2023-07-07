@@ -1,0 +1,42 @@
+Here are some commonly used HTML tags:
+
+<html>: Represents the root element of an HTML document.
+<head>: Contains meta-information about the HTML document, such as the title and links to stylesheets or scripts.
+<title>: Sets the title of the HTML document displayed in the browser's title bar or tab.
+<body>: Represents the main content of the HTML document.
+<h1> to <h6>: Heading tags for defining different levels of headings.
+<p>: Defines a paragraph of text.
+<a>: Creates a hyperlink to another web page or resource.
+<img>: Inserts an image into the document.
+<ul>: Represents an unordered list.
+<ol>: Represents an ordered list.
+<li>: Represents a list item within an unordered or ordered list.
+<div>: Defines a division or section of the HTML document.
+<span>: Defines an inline section or container within a block-level element.
+<table>: Defines a table.
+<tr>: Represents a table row.
+<td>: Represents a table cell.
+<th>: Represents a table header cell.
+<form>: Defines a form for user input.
+<input>: Creates an input field within a form.
+<button>: Creates a clickable button.
+<textarea>: Creates a multi-line text input field.
+<select>: Creates a drop-down selection list.
+<option>: Represents an option within a <select> element.
+<label>: Represents a label for an input field.
+<header>: Represents the header section of a document or a section.
+<footer>: Represents the footer section of a document or a section.
+<nav>: Represents a section for navigation links.
+<section>: Defines a section of a document.
+<article>: Represents an independent, self-contained piece of content.
+<aside>: Represents content that is tangentially related to the main content.
+<blockquote>: Indicates a longer quotation or citation.
+<code>: Represents a snippet of code.
+<pre>: Represents preformatted text, preserving spaces and line breaks.
+<hr>: Inserts a horizontal rule or line.
+<br>: Inserts a line break.
+<iframe>: Embeds another HTML document within the current document.
+<video>: Embeds a video into the document.
+<audio>: Embeds audio content into the document.
+<canvas>: Provides a space for drawing graphics using JavaScript.
+<svg>: Embeds scalable vector graphics into the document.
